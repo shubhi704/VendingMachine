@@ -13,10 +13,7 @@ coffee = $10
 
 ![image](https://user-images.githubusercontent.com/82434808/122650303-bab55680-d14f-11eb-86ee-515d6fbdb101.png)
 
-Output Table:
-![image](https://user-images.githubusercontent.com/82434808/122650314-d3be0780-d14f-11eb-8446-5716823753a4.png)
-
-
+# State_Values:
 ![image](https://user-images.githubusercontent.com/82434808/122650393-3adbbc00-d150-11eb-921d-d631d99c770a.png)
 
 # Simulation Result: ModelSim Software
